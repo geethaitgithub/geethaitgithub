@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align='center'>
-  A passionate Frontend Developer <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
+  A passionate Frontend Developer 
 </h3>
 <div align='center'>
   <img src="" alt=""/>
@@ -12,7 +12,6 @@
 <img src="./Assets/Banner v3.png" alt="Front End Developer Banner"/>
 <br/>
 
-🔭 I’m currently working on **Home Health Care Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 🏫 I’m currently learning **React js by doing Project**
 
